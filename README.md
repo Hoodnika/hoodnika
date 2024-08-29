@@ -1,9 +1,9 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Backend+Developer+)](https://git.io/typing-svg)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodnika&layout=compact&theme=dracula)]<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=DRF_Django_project&theme=dracula)](https://github.com/Hoodnika/DRF_Django_project)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoodnika&theme=dracula)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=DRF_Django_project&theme=light&description=DRF+Django+Project)](https://github.com/Hoodnika/DRF_Django_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=JobVacancies&theme=dracula)](https://github.com/Hoodnika/JobVacancies)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoodnika&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodnika&layout=compact&theme=dracula)]<br>
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
@@ -13,6 +13,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3.org/html/)
 [![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Unit Tests](https://img.shields.io/badge/-Unit%20Tests-090909?style=for-the-badge&logo=Jest&logoColor=white)](https://en.wikipedia.org/wiki/Unit_testing)
+
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/hoodnika)
