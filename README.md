@@ -1,9 +1,7 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer+)](https://git.io/typing-svg)<br>
-![flutter](https://img.shields.io/badge/just%20the%20message-8A2BE2?style=for-the-badge&logoWidth=40&logoHeight=40)
-![flutter](https://img.shields.io/badge/-fluter-8A2BE2?style=for-the-badge&logoWidth=40&logoHeight=40?logo=appveyor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hoodnika=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Backend+Developer+)](https://git.io/typing-svg)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodnika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
