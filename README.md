@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Backend+Developer+)](https://git.io/typing-svg)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoodnika&theme=dracula)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=DRF_Django_project&theme=light&description=DRF+Django+Project)](https://github.com/Hoodnika/DRF_Django_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=JobVacancies&theme=dracula)](https://github.com/Hoodnika/JobVacancies)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=MailingService&description=MailingService&theme=dracula)](https://github.com/Hoodnika/MailingService)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodnika&layout=compact&theme=dracula)]<br>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=DRF_Django_project&theme=light&show_owner=true)](https://github.com/Hoodnika/DRF_Django_project)
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-090909?style=for-the-badge&logo=Django&logoColor=white)](https://www.django-rest-framework.org/)
