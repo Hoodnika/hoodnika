@@ -3,6 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoodnika&theme=dracula)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=DRF_Django_project&theme=dracula&show_owner=true)](https://github.com/Hoodnika/JobVacancies)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=DRF_Django_project&theme=dracula&show_owner=true)](https://github.com/Hoodnika/DRF_Django_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=DRF_Django_project&theme=dracula&show_owner=true)](https://github.com/Hoodnika/Paid_content)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoodnika&repo=MailingService&show_owner=true&theme=dracula)](https://github.com/Hoodnika/MailingService)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodnika&layout=compact&theme=dracula)]<br>
 
